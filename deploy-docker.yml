@@ -22,7 +22,7 @@
     - name: Start the container
       docker_container:
         name: hariapp
-        image: "sandeepreddy1992/docker-ansible-app:{{DOCKER_TAG}}"
+        image: "sandeepreddy1992/docker-ansbile-app:{{DOCKER_TAG}}"
         state: started
         published_ports:
           - 0.0.0.0:8080:8080
