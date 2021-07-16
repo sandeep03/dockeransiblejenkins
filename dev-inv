@@ -1,2 +1,2 @@
 [dev]
-3.15.142.135 ansible_user=ubuntu
+3.133.12.160 ansible_user=ec2-user
